@@ -1,5 +1,6 @@
 /*c program to sum of two numbers*/
 #include<stdio.h>
+#include<conio.h>
 int main
 {
 int x y,z;
