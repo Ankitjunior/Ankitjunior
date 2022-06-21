@@ -1,6 +1,6 @@
 /* c program to calculate  area of circle*/
 #include<stdio.h>
-#include<conoi.h>
+#include<conio.h>
 int main()
   {
   int r;
